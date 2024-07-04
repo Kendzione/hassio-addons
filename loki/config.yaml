@@ -29,6 +29,6 @@ schema:
   ssl: bool
 slug: loki
 startup: system
-url: https://github.com/mdegat01/addon-loki
+url: https://github.com/Kendzione/addon-loki
 version: 1.11.2
 watchdog: http://[HOST]:3101/ready
