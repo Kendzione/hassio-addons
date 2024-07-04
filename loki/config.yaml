@@ -10,7 +10,7 @@ init: false
 map:
 - share
 - ssl
-name: Loki
+name: Loki2
 options:
   days_to_keep: 30
   log_level: info
