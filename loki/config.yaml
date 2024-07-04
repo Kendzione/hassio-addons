@@ -5,7 +5,7 @@ arch:
 - armhf
 codenotary: codenotary@degatano.com
 description: Loki for Home Assistant
-image: ghcr.io/mdegat01/loki/{arch}
+image: ghcr.io/Kendzione/loki/{arch}
 init: false
 map:
 - share
